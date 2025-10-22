@@ -5,6 +5,9 @@
 - ☸️ And Kubernetes clusters
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lypomer&theme=dark)
+![Repositories Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lypomer&theme=dark)
+Markdown Usage
+![Commit Hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lypomer&theme=dark&utcOffset=2) 
 
 <!--
 **lypomer/lypomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
