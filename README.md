@@ -4,9 +4,9 @@
 - 🐍 I love the Python language
 - ☸️ And Kubernetes clusters
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lypomer&theme=dark)
-![Repositories Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lypomer&theme=dark)
-![Commit Hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lypomer&theme=dark&utcOffset=2) 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lypomer&theme=github_dark)
+![Repositories Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lypomer&theme=github_dark)
+![Commit Hours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lypomer&theme=github_dark&utcOffset=2) 
 
 <!--
 **lypomer/lypomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
